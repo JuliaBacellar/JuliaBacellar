@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚  Constantly learning<br>🎯 1% better every day</p>
+<p align="left">📚  Constantly learning<br>🎯 1% better every day</p>
 
 ###
 
