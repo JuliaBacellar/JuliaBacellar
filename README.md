@@ -12,8 +12,6 @@
 <p align="left">
   💼 Apprentice at Bosch Brazil<br>
   🎓 Student at SENAI & COTUCA-UNICAMP<br>
-  📚 Constantly learning<br>
-  🎯 1% better every day
 </p>
 
 
@@ -44,3 +42,4 @@
 </div>
 
 ###
+
